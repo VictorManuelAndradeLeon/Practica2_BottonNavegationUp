@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Botón de Navegación</string>
+    <string name="home">Inicio</string>
+    <string name="notifications">Notificaciones</string>
+    <string name="settings">Configuraciones</string>
+    <string name="about">Nosotros</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
